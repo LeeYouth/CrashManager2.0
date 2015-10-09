@@ -13,9 +13,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+
+        var temperatureInFahrenheit = 30
+        if temperatureInFahrenheit <= 32 {
+          println("good")
+        }
         
-        let cat = "this is test demo";
-        print(cat);
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
