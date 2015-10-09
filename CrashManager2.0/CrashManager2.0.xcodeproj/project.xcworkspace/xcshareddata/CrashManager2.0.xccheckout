@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F9C41E8-A94E-4CF1-B83F-46236358A802</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>469C1162569C3D46811C1175827CA51FAC2FD31E</key>
+		<string>https://github.com/LeeYouth/CrashManager2.0.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CrashManager2.0/CrashManager2.0.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>469C1162569C3D46811C1175827CA51FAC2FD31E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LeeYouth/CrashManager2.0.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>469C1162569C3D46811C1175827CA51FAC2FD31E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>469C1162569C3D46811C1175827CA51FAC2FD31E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrashManager2.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
